@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Altilano
-- 👀 I’m interested in Physics, Machine Learning, Quantum Computing
+- 👀 I’m interested in Physics, Machine Learning, Quantum Computing, Quantum Optics
 - 🌱 I’m currently learning Physics, Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me altilanob@id.uff.br
