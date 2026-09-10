@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Altilano
-- 👀 I’m interested in Physics, Machine Learning, Quantum Optics
-- 🌱 I’m currently learning Physics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in more things than my time allows me to study. But they include Physics, Math, Machine Vision, Optics, Python, C++, French, Quantum Mechanics, Photolithography, Linux, Data analysis and many more.
+- 🌱 I’m currently learning Physics.
+- 💞️ I’m looking to collaborate on any project that I think as fun.
 - 📫 How to reach me altilanob@id.uff.br
 
 <!---
