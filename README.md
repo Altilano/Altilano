@@ -67,9 +67,9 @@
 ---
 
 <p align="center">
-  <i>⚛️ "The good thing about science is that it's true whether or not you believe in it." — Neil deGrasse Tyson</i>
+  <i>⚛️ "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology" — Carl Sagan </i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=7C3AED" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Altilano&style=for-the-badge&color=7C3AED" alt="profile views"/>
 </p>
